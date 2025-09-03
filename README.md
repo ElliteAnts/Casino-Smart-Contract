@@ -168,5 +168,3 @@ yarn script claim -g 2
 ```
 
 **Note:** This must be run by the winning wallet after the winner has been selected.
-**X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
-**Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
